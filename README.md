@@ -1,4 +1,4 @@
-# SR-GNN
+# GIISR
 
 ## Paper data and code
 
